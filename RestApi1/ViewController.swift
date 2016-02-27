@@ -7,9 +7,9 @@
 //
 // First Commit
 
-// This is Local changes which will be push on branch MASTER
+// This is Local changes which will be push on branch Komal
 // changed Local1
-// This line added on GitHub in branch MASTER
+// This line added on GitHub in branch Komal
 //Ned
 
 
