@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A66434B1C8172260050F903 /* TestFile in Resources */ = {isa = PBXBuildFile; fileRef = 0A66434A1C8172260050F903 /* TestFile */; };
 		0ACF02C71C4629F3000E3CD2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACF02C61C4629F3000E3CD2 /* AppDelegate.swift */; };
 		0ACF02C91C4629F3000E3CD2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACF02C81C4629F3000E3CD2 /* ViewController.swift */; };
 		0ACF02CC1C4629F3000E3CD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ACF02CA1C4629F3000E3CD2 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A66434A1C8172260050F903 /* TestFile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = TestFile; path = ../../../TestFile; sourceTree = "<group>"; };
 		0ACF02C31C4629F3000E3CD2 /* RestApi1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestApi1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ACF02C61C4629F3000E3CD2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0ACF02C81C4629F3000E3CD2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				0ACF02D21C4629F3000E3CD2 /* LaunchScreen.storyboard */,
 				0ACF02D51C4629F3000E3CD2 /* Info.plist */,
 				0ACF02CD1C4629F3000E3CD2 /* RestApi1.xcdatamodeld */,
+				0A66434A1C8172260050F903 /* TestFile */,
 			);
 			path = RestApi1;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A66434B1C8172260050F903 /* TestFile in Resources */,
 				0ACF02D41C4629F3000E3CD2 /* LaunchScreen.storyboard in Resources */,
 				0ACF02D11C4629F3000E3CD2 /* Assets.xcassets in Resources */,
 				0ACF02CC1C4629F3000E3CD2 /* Main.storyboard in Resources */,
@@ -486,6 +490,7 @@
 				0ACF02F01C4629F3000E3CD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0ACF02F11C4629F3000E3CD2 /* Build configuration list for PBXNativeTarget "RestApi1Tests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +499,7 @@
 				0ACF02F31C4629F3000E3CD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0ACF02F41C4629F3000E3CD2 /* Build configuration list for PBXNativeTarget "RestApi1UITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +508,7 @@
 				0ACF02F61C4629F3000E3CD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
