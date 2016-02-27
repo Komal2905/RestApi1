@@ -6,9 +6,9 @@
 //  Copyright © 2016 BridgeLabz. All rights reserved.
 // First Commit
 
-// This is Local changes which will be push on branch Master1
+// This is Local changes which will be push on branch Komal
 // changed Local1
-// This line added on GitHub in branch Master1
+// This line added on GitHub in branch Komal
 // This line is added in master
 //Ned
 
