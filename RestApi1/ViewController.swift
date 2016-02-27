@@ -5,13 +5,9 @@
 //  Created by Vidya Ramamurthy on 13/01/16.
 //  Copyright © 2016 BridgeLabz. All rights reserved.
 //
-
-
 // First Commit
 // This is Local changes which will be push on branch MASTER
-
 // changed Local
-
 // This line added on GitHub in branch MASTER
 
 import UIKit
