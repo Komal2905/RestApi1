@@ -9,12 +9,11 @@
 
 // First Commit
 
-// This is Local changes which will be push on branch MASTER
+// This is Local changes which will be push on branch KOmal
 
 // changed Local
 
-// This line added on GitHub in branch MASTER
-
+// This line added on GitHub in branch Komal
 
 import UIKit
 
