@@ -7,9 +7,9 @@
 //
 // First Commit
 
-// This is Local changes which will be push on branch Master
-// changed Local1
-// This line added on GitHub in branch Master
+// This is Local changes which will be push on branch Master1
+// changed Local2
+// This line added on GitHub in branch Master1
 //Ned
 
 
