@@ -8,11 +8,11 @@
 
 
 // First Commit
-// This A is Local changes which will be push on branch TEST
+// This A is Local changes which will be push on branch MASTER
 
 // changed Local
 
-// This line added on GitHub in komal branch
+// This line added on GitHub in MASTER branch
 
 // A
 
